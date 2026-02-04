@@ -26,6 +26,7 @@ Saya mahasiswa **Teknik Informatika** di **Universitas Nahdlatul Ulama Cirebon**
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxcompiler-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxcompiler-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zxcompiler-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zxcompiler-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
 </div>
